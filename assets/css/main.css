@@ -1657,7 +1657,7 @@
 	#banner {
 		background: #FFFFFF url("../../images/gtp_logo.png");
 		background-position: center center;
-		background-size: auto 100%;
+		background-size: auto 80%;
 		background-repeat: no-repeat;
 		text-align: center;
 	}
