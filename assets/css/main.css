@@ -27,7 +27,9 @@
 	}
 
 	ol, ul {
-		list-style: none;
+		list-style: none;        
+        font-size: 100%;
+		font: inherit;
 	}
 
 	blockquote, q {
@@ -1422,6 +1424,7 @@
 			font-size: 1.1em;
 		}
 
+      
 		ul.contact li p {
 			margin: 0;
 		}
@@ -2278,7 +2281,7 @@
 				ul.contact li h3 {
 					top: 0.8em;
 				}
-
+        
 			ul.divided li {
 				padding: 0.5em 0 0.5em 0;
 			}
